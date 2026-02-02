@@ -1,0 +1,16 @@
+body {
+    background-color: cornsilk;
+}
+h1 {
+    color: blue;
+    font-family: Helvetica ;
+}
+
+p {
+    color: red;
+    background-color: yellow;
+}
+#capital-letter {
+    font-size: 20px;
+    font-weight: bold;
+}
